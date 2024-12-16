@@ -25,9 +25,6 @@ the project will continue to get security fixes as long as Laravel 11 is still s
 ## Full Documentation
 Full documentation is available at https://docs.desilva.se/blogkit/. Generated using my free [Laradocgen](https://github.com/caendesilva/laradocgen) package!
 
-## Demos:
-Static demo of the default install: https://caendesilva.github.io/laravel-blogkit-static-demo/
-Live blog (my own (customized) blog built with this kit): https://blog.desilva.se/
 
 ## Get Started
 
@@ -103,12 +100,6 @@ Some of the frontend components are from [Flowbite](https://github.com/themesber
 ## Code of Conduct
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com).
-
-If you discover a security vulnerability within this package, please send an e-mail to the creator, Caen De Silva, via [caen@desilva.se](mailto:caen@desilva.se).
 
 All security vulnerabilities will be promptly addressed.
 
